@@ -19,6 +19,7 @@ module.exports = {
     extend: {
       fontFamily: {
         'sans': ['Barlow', ...defaultTheme.fontFamily.sans],
+        'serif': ['Roboto Mono', ...defaultTheme.fontFamily.serif],
       },
     },
   },
